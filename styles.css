@@ -1,5 +1,6 @@
 p{
   color:firebrick;
+  font-family:saint-sherif;
 }
 
 h1{
@@ -57,13 +58,14 @@ div p{
 
 .big{
   font-weight:bold;
-  font-size:40px;
+  font-size:30px;
 }
 
 ul{
   color:#6e5160;
   font-style:italic;
 }
+
 
 
 

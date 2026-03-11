@@ -30,16 +30,19 @@ div p{
 
 .bluetext{
   color:blue;
+  text-align:center;
 }
 
 .cursive{
   font-style:italic;
+  text-align:initial;
 }
 
 .redbold{
   color:red;
   font-weight:bold;
 }
+
 
 
 

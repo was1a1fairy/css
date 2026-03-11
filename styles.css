@@ -29,7 +29,9 @@ div p{
 }
 
 
-.longframe{}
+.longframe{
+  width:600px;
+}
 
 .bluetext{
   color:blue;
@@ -59,9 +61,10 @@ div p{
 }
 
 ul{
-  color:pink;
+  color:#6e5160;
   font-style:italic;
 }
+
 
 
 

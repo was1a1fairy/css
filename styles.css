@@ -23,6 +23,7 @@ div{
 
 div p{
   color:black;
+  text-indent: 40px;
 }
 
 
@@ -42,6 +43,7 @@ div p{
   color:red;
   font-weight:bold;
 }
+
 
 
 

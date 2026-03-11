@@ -14,6 +14,20 @@ h3{
   color:darkorange;
 }
 
+.longframe{}
+
+.bluetext{
+  color:blue;
+}
+
+.cursive{
+  font-style:italic;
+}
+
+.redbold{
+  color:red;
+  font-weight:bold;
+}
 
 
 

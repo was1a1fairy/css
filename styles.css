@@ -83,12 +83,31 @@ div div{
 }
 
 
+.alert{
+  padding:15px;
+  border-radius:4px;
+  font-size:16px;
+  font-weight:bold;
+  margin-bottom:20px;
+}
 
 
+.success{
+  background-color:lightgreen;
+  color:green;
+}
 
 
+.warning{
+  background-color:yellow;
+  color:orange;
+}
 
 
+.error{
+  background-color:lightred;
+  color:red;
+}
 
 
 

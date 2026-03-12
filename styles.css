@@ -124,6 +124,7 @@ div div{
 .li{
   margin-bottom:5px;
   background-color:#064E2D;
+  height: 40px;
 }
 
 
@@ -132,8 +133,9 @@ li a{
   text-decoration:none;
   font-weight:bold;
   font-family:sans-sherif;
-  padding: 1px;
+  padding: 5px;
 }
+
 
 
 

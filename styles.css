@@ -93,21 +93,22 @@ div div{
 
 
 .success{
-  background-color:#193A3C;
-  color:#D5E6AB;
+  background-color:#D5E6AB;
+  color:#193A3C;
 }
 
 
 .warning{
-  background-color:#AE340B;
-  color:#F9DD81;
+  background-color:#F9DD81;
+  color:#AE340B;
 }
 
 
 .error{
-  background-color:#70020F;
-  color:#FFDEE2;
+  background-color:#FFDEE2;
+  color:#70020F;
 }
+
 
 
 
